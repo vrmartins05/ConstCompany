@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  engenheiro: one
+  cliente: one
+  pagamento: 9.99
+  material: one
+  evento: one
+  funcionario: one
+
+two:
+  engenheiro: two
+  cliente: two
+  pagamento: 9.99
+  material: two
+  evento: two
+  funcionario: two
